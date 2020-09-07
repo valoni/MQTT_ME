@@ -7,9 +7,9 @@ it can be used for HTTPS / MQTT ..
 
  Description | App | Type | use on
 ------------ | ------------ | ------------- | -------------
-MQTTNETDB | Broker | .NET Framework 4.7+ | Windows
-MQTTNEClient | Client | .NET Framework 4.7+ | Windows
-GNATM2MMQTT | Client | .NET Framework 4.7+ | Windows
-NF.ESP32.| Client | nanoFramework 1.5.x | embbeded ESP32
-TinyCLRMQTT| Client | TinyCLR OS 2.x | embbeded STM32F743
+MqttNetDB | Broker | .NET Framework 4.7+ | Windows
+MqttNetClient | Client | .NET Framework 4.7+ | Windows
+MQTTm2m | Client | .NET Framework 4.7+ | Windows
+NF.ESP32.Cert| Client | nanoFramework 1.5.x | embbeded ESP32
+TinyCLRMqtt| Client | TinyCLR OS 2.x | embbeded STM32F743
  
