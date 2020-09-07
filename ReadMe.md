@@ -1,7 +1,8 @@
 MQTT Variants used for different test with certificates ...
 
 Create server on local ip : 192.168.2.110 - privately val.itdbcks.net was pointed to that local ip 
-created ssl CA and Client Certificates for server for CN=val.itdbcks.net and clients to used to 
+
+created openssl(v1.1.1) CA and Client Certificates for server for CN=val.itdbcks.net and clients to used to 
 
 certificates can be used either for HTTPS either for MQTT (on ip address 192.168.2.110)..
 
